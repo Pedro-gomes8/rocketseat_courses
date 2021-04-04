@@ -5,3 +5,5 @@
     let
     const
 */
+
+var clima = 'quente';
