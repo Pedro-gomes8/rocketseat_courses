@@ -3,3 +3,28 @@ h1 {
   margin: 20px;
   padding: 20px;
 }
+
+.testebutaum:hover {
+  transform: scale(1.005);
+  background-color: rgb(222, 225, 54);
+}
+.testebutaum {
+  display: flex;
+  -moz-box-align: center;
+  align-items: center;
+  -moz-box-pack: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: rgb(252, 252, 252);
+  text-transform: uppercase;
+  border: 0px none;
+  border-radius: 5px;
+  background-color: rgb(157, 194, 55);
+  padding: 1.6rem;
+  transition: all 180ms ease-in-out 0s;
+  width: 200px;
+  text-transform: inherit;
+  text-decoration: inherit;
+}

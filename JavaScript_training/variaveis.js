@@ -1,0 +1,7 @@
+//  Variaveis
+
+/* 
+    Var
+    let
+    const
+*/
